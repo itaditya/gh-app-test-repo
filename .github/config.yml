@@ -1,1 +1,3 @@
+_extends: .github
+
 reactPreviewFolder: client
